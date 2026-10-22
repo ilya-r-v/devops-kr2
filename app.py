@@ -1,3 +1,4 @@
+# KR2: Rodnov
 import os
 import socket
 
